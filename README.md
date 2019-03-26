@@ -12,7 +12,7 @@ I am an energetic, curious, self-starter and ambitious  **engineer** who loves t
 ## Tech Stack
 |Image| **Languages** |**Frameworks**|
 |-----|-------------- |--------------|
-|<div width='10px'><img src='https://user-images.githubusercontent.com/37377831/55037461-c586ec80-5015-11e9-8759-f4b12c778245.png' width='10%'></div>| JavaScript|React |  
+|<div width='10px'><img src='https://user-images.githubusercontent.com/37377831/55037461-c586ec80-5015-11e9-8759-f4b12c778245.png' width='100'></div>| JavaScript|React |  
 
 ## Skills
 
