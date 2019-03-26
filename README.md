@@ -10,7 +10,7 @@ I am an energetic, curious, self-starter and ambitious  **engineer** who loves t
 ## Projects
 
 ## Tech Stack
-|Image| **Languages** |**Frameworks**|**Database**|**Testing**|**Tools**|**Design**|
+|     | **Languages** |**Frameworks**|**Database**|**Testing**|**Tools**|**Design**|
 |-----|-------------- |--------------|------------|-----------|---------|----------|
 |<img src='https://user-images.githubusercontent.com/37377831/55037461-c586ec80-5015-11e9-8759-f4b12c778245.png' width='50'>| JavaScript|React | SQLite | Rspec | Git | AdobeXD |
 |<img src='https://user-images.githubusercontent.com/37377831/55038471-d6852d00-5018-11e9-9456-4c513770b88c.png' width='50'>|Node.js | Express.js | MySQL | Mocha | npm | PhotoShop |
