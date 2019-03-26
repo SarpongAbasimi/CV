@@ -12,7 +12,7 @@ I am an energetic, curious, self-starter and ambitious  **engineer** who loves t
 ## Tech Stack
 |Image| **Languages** |**Frameworks**|
 |-----|-------------- |--------------|
-|<div width='20px'><img src='https://user-images.githubusercontent.com/37377831/55037461-c586ec80-5015-11e9-8759-f4b12c778245.png' width='100%'></div>| JavaScript|React |  
+|<div width='20px'><img src='https://user-images.githubusercontent.com/37377831/55037461-c586ec80-5015-11e9-8759-f4b12c778245.png' width='10%'></div>| JavaScript|React |  
 
 ## Skills
 
@@ -37,7 +37,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### [Makers Academy](https://makers.tech) (March 2019 - June 2019)
 
-<img src='https://user-images.githubusercontent.com/37377831/55031000-86e93600-5005-11e9-9014-cb1e6b54b081.png' width='5%'>
+<img src='https://user-images.githubusercontent.com/37377831/55031000-86e93600-5005-11e9-9014-cb1e6b54b081.png' width='20%'>
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
