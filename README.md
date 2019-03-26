@@ -3,7 +3,7 @@
 
 I am an energetic, curious, self-starter and ambitious  **engineer** who loves technology and wants to create products that will add value to peoples lives. I'm currently studying to became **Full-Stack software Developer** at Makers Academy and looking forward to work with **innovative and ambitious people, develop my skills and grow as an engineer, and work on projects that are useful and engaging**.
 
-> **Jump to :** **[Projects](#experience)** | [Education]() | [Experience] () | [Interests] () | [Contacts] ()
+> **Jump to :** **[Projects](#projects)** | **[Education](#education)** | **[Experience]()** | **[Interests](#interests)** | **[Contacts](#contacts)**
 
 
 
@@ -50,6 +50,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Any other qualifications
 
 ## Experience
+
+## Interests
+
+## Contacts
 
 **Company Name** (start_date to end_date)    
 *Your job title*  
