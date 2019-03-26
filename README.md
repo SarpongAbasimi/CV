@@ -45,7 +45,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Loughborough University / **(September 2013 - July 2017)**
+#### Loughborough University / **(September 2013 - June 2017)**
 <img src='https://user-images.githubusercontent.com/37377831/55031967-c6b11d00-5007-11e9-876d-b0e9598bb8f0.png'>
 
 - **BEng (Hons) Manufacturing Engineering** 
