@@ -1,7 +1,7 @@
 ## Sarpong Abasimi
 **[LinkedIn](https://uk.linkedin.com/in/sarpong-abasimi-353380163)**| **[Medium](https://medium.com/@1550707241489)**
 
-I am an energetic, curious, self-starter and ambitious  **engineer** who loves technology and wants to create products that will add value to peoples lives. I also enjoy learning new technologies, working with people, solving getting to the root casue of problems. Currently I am studying to became **Full-Stack software Developer** at Makers Academy and looking forward to work with **innovative and ambitious people, develop my skills and grow as an engineer, and work on projects that are useful and engaging**.
+I am an energetic, curious, self-starter and ambitious  **engineer** who loves technology and wants to create products that will add value to peoples lives. I also enjoy learning new technologies, working with people, solving and getting to the root casue of problems. Currently I am studying to became **Full-Stack software Developer** at Makers Academy and looking forward to work with **innovative and ambitious people, develop my skills and grow as an engineer, and work on projects that are useful and engaging**.
 
 > **Jump to :** **[Projects](#projects)** | **[Education](#education)** | **[Experience](#experience)** | **[Interests](#interests)** | **[Contacts](#contacts)**
 
@@ -30,22 +30,33 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (March 2019 - July 2019)
+
+<img src='https://user-images.githubusercontent.com/37377831/55031000-86e93600-5005-11e9-9014-cb1e6b54b081.png' width='20%'>
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
 - Great collaborator [PROVIDE EVIDENCE]
+- 12-week intensive software development bootcamp that focuses on OOD, TDD, XP values and software craftsmanship.
+- Demanded independent learning, keen problem-solving abilities and working in teams.
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Loughborough University / **(September 2013 - July 2017)**
+<img src='https://user-images.githubusercontent.com/37377831/55031967-c6b11d00-5007-11e9-876d-b0e9598bb8f0.png'>
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BEng (Hons) Manufacturing Engineering, 
+> **Interesting Modules**
+- **Software Engineering**
+- **Mathematics for Manufacturing Engineering**
+- **Applied Pyhsics**
+- **Project Management**
+- **Engineering Management: Finance Law and Quality**
+- **Lean Operations and supply chain managemet**
+
 
 #### Any other qualifications
 
