@@ -48,7 +48,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Loughborough University / **(September 2013 - July 2017)**
 <img src='https://user-images.githubusercontent.com/37377831/55031967-c6b11d00-5007-11e9-876d-b0e9598bb8f0.png'>
 
-- BEng (Hons) Manufacturing Engineering, 
+- **BEng (Hons) Manufacturing Engineering** 
 > **Interesting Modules**
 - **Software Engineering**
 - **Mathematics for Manufacturing Engineering**
@@ -59,13 +59,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 <img src='https://user-images.githubusercontent.com/37377831/55033535-4f7d8800-500b-11e9-94ed-5f177aa34f35.png' width='20%'>
 
-- CS50 Introduction to Computer Science | Online Course**
+- CS50 Introduction to Computer Science | Online Course
 - Python3
+- Data Structure And Algorithms
 
 #### Liceo Scientifico Giorgione, Italy (2009 - 2012)
 
-
-#### Any other qualifications
 
 ## Experience
 
