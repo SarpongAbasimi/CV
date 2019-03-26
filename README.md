@@ -15,7 +15,7 @@ I am an energetic, curious, self-starter and ambitious  **engineer** who loves t
 |<img src='https://user-images.githubusercontent.com/37377831/55037461-c586ec80-5015-11e9-8759-f4b12c778245.png' width='50'>| JavaScript ( ES5 & ES6+ )|React | SQLite | Rspec | Git | AdobeXD |
 |<img src='https://user-images.githubusercontent.com/37377831/55038471-d6852d00-5018-11e9-9456-4c513770b88c.png' width='50'>| Node.js | Express.js | MySQL | Mocha | npm | PhotoShop |
 |<img src='https://user-images.githubusercontent.com/37377831/55039168-0f260600-501b-11e9-92b1-6bdae28d88c9.png' width='50'>| Ruby |Ruby on Rails | PostgreSQL | Jasmine | Heroku | Adobe Illustrator |
-|<img src='https://user-images.githubusercontent.com/37377831/55039424-f66a2000-501b-11e9-801a-837f8db5f0cb.png' width='50'>| Python3 | Django | SQLAlchemy ( ORM )| Jest | Linux |  |
+|<img src='https://user-images.githubusercontent.com/37377831/55039424-f66a2000-501b-11e9-801a-837f8db5f0cb.png' width='50'>| Python3 | Django | SQLAlchemy( ORM ) | Jest | Linux |  |
 |<img src='https://user-images.githubusercontent.com/37377831/55039685-0fbf9c00-501d-11e9-8a9b-69d6d8dbc628.png' width='50'> |CSS3             | Vue  |       |  | AWS | |
 |<img src='https://user-images.githubusercontent.com/37377831/55040138-0fc09b80-501f-11e9-86f6-3a6794a9ce31.png' width='50'> |HTML5 |Bootstrap| | | | |
 |<img src='https://user-images.githubusercontent.com/37377831/55040312-b9079180-501f-11e9-87c6-eb2d319fa049.png' width='50'> | Sass | Redux | | | | |
