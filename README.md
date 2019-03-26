@@ -1,6 +1,7 @@
-## Your Name
+## Sarpong Abasimi
+**[LinkedIn](https://uk.linkedin.com/in/sarpong-abasimi-353380163)**| **[Medium](https://medium.com/@1550707241489)**
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am an energetic, curious, self-starter and ambitious  **engineer** who loves technology and wants to create products that will add value to peoples lives. I'm currently studying to became **Full-Stack software Developer** at Makers Academy and looking forward to work with **innovative and ambitious people, develop my skills and grow as an engineer, and work on projects that are useful and engaging**.
 
 ## Skills
 
