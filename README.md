@@ -48,7 +48,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - RSpec, Jasmine
 
 #### [Loughborough University](https://www.lboro.ac.uk) / **(September 2013 - July 2017)**
-<img src='https://user-images.githubusercontent.com/37377831/55031967-c6b11d00-5007-11e9-876d-b0e9598bb8f0.png'>
+<img src='https://user-images.githubusercontent.com/37377831/55031967-c6b11d00-5007-11e9-876d-b0e9598bb8f0.png' width='20%'>
 
 - **BEng (Hons) Manufacturing Engineering** 
 > **Interesting Modules**
