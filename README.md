@@ -57,6 +57,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - **Engineering Management: Finance Law and Quality**
 - **Lean Operations and supply chain managemet**
 
+<img src='https://user-images.githubusercontent.com/37377831/55033535-4f7d8800-500b-11e9-94ed-5f177aa34f35.png' width='20%'>
+
+- CS50 Introduction to Computer Science | Online Course**
+- Python3
+
+#### Liceo Scientifico Giorgione, Italy (2009 - 2012)
+
 
 #### Any other qualifications
 
