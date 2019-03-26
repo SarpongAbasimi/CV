@@ -44,7 +44,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### [Makers Academy](https://makers.tech) (March 2019 - June 2019)
 
-<img src='https://user-images.githubusercontent.com/37377831/55031000-86e93600-5005-11e9-9014-cb1e6b54b081.png' width='20%'>
+<img src='https://user-images.githubusercontent.com/37377831/55031000-86e93600-5005-11e9-9014-cb1e6b54b081.png' width='15%'>
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
