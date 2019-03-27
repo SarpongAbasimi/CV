@@ -33,10 +33,8 @@ I am an energetic, curious, self-starter and ambitious  **engineer** who loves t
 > I am a natural problem solver. I enjoy getting to the root cause of problems and finding the most effective appraoch to solve them, it gives me great satisfaction. During my spare time, when I am not reading , I like to solve [programming challenges](https://www.codewars.com/users/SarpongAbasimi).
 
 - **Languages**
-> Italian - native</br>
+> Italian - native </br>
 French  - Basics
-
-
 
 - Experience
 - Achievements
