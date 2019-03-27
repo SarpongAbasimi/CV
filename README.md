@@ -74,7 +74,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 > **Interesting Modules**
 - **Software Engineering**
 - **Mathematics for Manufacturing Engineering**
-- **Applied Pyhsics**
+- **Applied Physics**
 - **Project Management**
 - **Engineering Management: Finance Law and Quality**
 - **Lean Operations and supply chain managemet**
