@@ -78,7 +78,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - **Project Management**
 - **Engineering Management: Finance Law and Quality**
 - **Lean Operations and supply chain managemet**
-> **[Link to all modules]**(https://www.lboro.ac.uk/study/undergraduate/courses/a-z/manufacturing-engineering-beng/)
+> **[Link to all modules](https://www.lboro.ac.uk/study/undergraduate/courses/a-z/manufacturing-engineering-beng/)**
 
 <img src='https://user-images.githubusercontent.com/37377831/55033535-4f7d8800-500b-11e9-94ed-5f177aa34f35.png' width='20%'>
 
