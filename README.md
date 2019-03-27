@@ -23,7 +23,8 @@ I am an energetic, curious, self-starter and ambitious  **engineer** who loves t
 
 ## Skills
 
-#### This Skill
+#### Communication: great at listening, speaking, writing and teaching
+> I enjoy writing and blogging about technologies that I learn. I also enjoy reading and reviewing books, primarily philosophy, science and social science. I am also a film photographer and digital artist. I am confident communicating what I'm working on to a large audience.
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
