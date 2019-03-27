@@ -86,7 +86,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### [Liceo Scientifico Giorgione](https://www.liceogiorgione.gov.it), Italy (2009 - 2012)
 
-
+[//]: # (This may be the most platform independent comment)
 ## Experience
 
 ## Interests
