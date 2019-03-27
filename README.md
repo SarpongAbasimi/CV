@@ -26,7 +26,9 @@ I am an energetic, curious, self-starter and ambitious  **engineer** who loves t
 - **Communication: great at listening, speaking, writing and teaching**
 > I enjoy writing and [blogging](https://medium.com/@1550707241489) about technologies that I learn. This is really important because not only does it assures me that I truly understand the technology, it might also be useful to somebody somewhere searching on the internet for answers to a technology. I also enjoy reading books, primarily self-improvement, technology and life.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+- **Collaboration: flexible, confident and natural team-player**
+> Talent wins games, but teamwork and intelligence win championships. 'Micahel Jordan'
+Having played competitive football for three years, I know the importance of collaborating and working effectively together with others to achieve a common goal. 
 
 - Experience
 - Achievements
