@@ -30,7 +30,7 @@ I am an energetic, curious, self-starter and ambitious  **engineer** who loves t
 > Michael Jordans once said, "**Talent wins games, but teamwork and intelligence win championships**" and he is perfectly right. Having played competitive football for three years, I know the importance of collaborating and working effectively together with others to achieve a common goal. Over the years I  have demonstrated this skill by working with engineers from diverse background to develop a guide for Small Medium Enterprises to implement industry 4.0 across their supply chain.
 
 - **Problem Solving**
-> I am a natural problem solver. I enjoy getting to the root cause of problems and finding the most effective appraoch to solve them, it gives me great satisfaction. During my spare time, when I am not reading , I like to solve [programming challenges](https://www.codewars.com/users/SarpongAbasimi).
+> I am a natural problem solver. I enjoy getting to the root cause of problems using Lean Six Sigma methodologies and finding the most effective appraoch to solve them, it gives me great satisfaction. During my spare time, when I am not reading , I like to solve [programming challenges](https://www.codewars.com/users/SarpongAbasimi).
 
 - **Languages**
 > Italian - native </br>
