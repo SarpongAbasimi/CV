@@ -24,7 +24,8 @@ I am an energetic, curious, self-starter and ambitious  **engineer** who loves t
 ## Skills
 
 - **Communication: great at listening, speaking, writing and teaching**
-> I enjoy writing and blogging about technologies that I learn. This is really important for me because not only that it assures me  I also enjoy reading and reviewing books, primarily philosophy, science and social science. I am also a film photographer and digital artist. I am confident communicating what I'm working on to a large audience.
+> I enjoy writing and blogging about technologies that I learn. This is really important because not only does it assures me that I truly understand the technology, it might also be useful to somebody somewhere searching on the internet for answers to a technology. I also enjoy reading books, primarily self-improvement, technology and life.
+Blog
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
