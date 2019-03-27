@@ -28,7 +28,7 @@ I am an energetic, curious, self-starter and ambitious  **engineer** who loves t
 
 - **Collaboration: flexible, confident and natural team-player**
 > Talent wins games, but teamwork and intelligence win championships. 'Micahel Jordan'
-Having played competitive football for three years, I know the importance of collaborating and working effectively together with others to achieve a common goal. 
+> Having played competitive football for three years, I know the importance of collaborating and working effectively together with others to achieve a common goal. 
 
 - Experience
 - Achievements
