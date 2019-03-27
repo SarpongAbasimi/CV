@@ -24,10 +24,19 @@ I am an energetic, curious, self-starter and ambitious  **engineer** who loves t
 ## Skills
 
 - **Communication: great at listening, speaking, writing and teaching**
-> I enjoy writing and [blogging](https://medium.com/@1550707241489) about technologies that I learn. This is really important because not only does it assures me that I truly understand the technology, it might also be useful to somebody somewhere searching on the internet for answers to a technology. I also enjoy reading books, primarily self-improvement, technology and life.
+> I enjoy writing and [blogging](https://medium.com/@1550707241489) about technologies that I learn. This is really important because not only does it assures me that I truly understand the technology, but because it might also be useful to somebody somewhere searching on the internet for answers to that technology. I also enjoy reading books, primarily self-improvement, technology and life.
 
 - **Collaboration: flexible, confident and natural team-player**
 > Michael Jordans once said, "**Talent wins games, but teamwork and intelligence win championships**" and he is perfectly right. Having played competitive football for three years, I know the importance of collaborating and working effectively together with others to achieve a common goal. Over the years I  have demonstrated this skill by working with engineers from diverse background to develop a guide for Small Medium Enterprises to implement industry 4.0 across their supply chain.
+
+- **Problem Solving**
+> I am a natural problem solver. I enjoy getting to the root cause of problems and finding the most effective appraoch to solve them, it gives me great satisfaction. During my spare time, when I am not reading , I like to solve [programming challenges](https://www.codewars.com/users/SarpongAbasimi).
+
+- ** Languages**
+> ``` Italian - native
+ French  - Basics
+ ```
+
 
 - Experience
 - Achievements
