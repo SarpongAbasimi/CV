@@ -6,7 +6,8 @@
   <a href="#education">Education</a> |
   <a href="#experience">Experience</a> |
   <a href="#interests">Interests</a> |
-  <a href="#contacts">Contacts</a>
+  <a href="#contacts">Contacts</a> |
+  <a href="#skills">Skills</a>
 </h4>
 
 <h1 align='center'>
@@ -27,19 +28,26 @@ I am an energetic, curious, self-starter and ambitious  **engineer** who loves t
 |  :------------:              |   :----:                                     |    :---:      | :--:   |
 | **RPS** <br/> <a href='https://sarpong-rps-challenge.herokuapp.com'><img src='https://user-images.githubusercontent.com/37377831/56474732-b6a92380-6475-11e9-9315-484609993fea.jpg' width='250'></a> <br/> <a href='https://github.com/SarpongAbasimi/rps-challenge'><img src='https://user-images.githubusercontent.com/37377831/56474819-35529080-6477-11e9-9e63-4cdf0055c340.png' width='60'></a>|  Weekend Challenge <br/> **Week 3** <br/>Solo | A **responsive** game app that allows users to enter their name before the game, make a choice by choosing either (rock, paper and scissors) form a select option. The game then chooses a a random option and then a winner is declared.|<img src='https://user-images.githubusercontent.com/37377831/55040138-0fc09b80-501f-11e9-86f6-3a6794a9ce31.png' width='30'> <br/> <img src='https://user-images.githubusercontent.com/37377831/55040312-b9079180-501f-11e9-87c6-eb2d319fa049.png' width='30'> <br/> <img src='https://user-images.githubusercontent.com/37377831/56474907-8616b900-6478-11e9-9182-56482df93411.png' width='30'> <br/> <img src='https://user-images.githubusercontent.com/37377831/56474933-eb6aaa00-6478-11e9-868c-723b87d33c6e.png' width='50'> <br/> <img src='https://user-images.githubusercontent.com/37377831/56475037-c0815580-647a-11e9-8493-80f33608095b.png' width='30'> <br/> <img src='https://user-images.githubusercontent.com/37377831/56475060-09d1a500-647b-11e9-9e30-3b091f7a6d23.png' width='30'>|
 
-## Tech Stack
+----------
+<a name="tech-stack"></a>
+<h1 align='center'>
+  Tech Stack
+</h1>
+
 |     | **Languages** |**Frameworks**|**Database**|**Testing**|**Tools**|**Design**|
 |-----|    :---:      |    :---:     |    :---:   |   :---:   |  :---:  |  :---:   |
 |<img src='https://user-images.githubusercontent.com/37377831/55037461-c586ec80-5015-11e9-8759-f4b12c778245.png' width='30'>| **JavaScript**<br/>**( ES5 & ES6)**|React | SQLite | Rspec | Git | AdobeXD |
 |<img src='https://user-images.githubusercontent.com/37377831/55038471-d6852d00-5018-11e9-9456-4c513770b88c.png' width='30'>| **Node.js** | Express.js | MySQL | Mocha | npm | PhotoShop |
-|<img src='https://user-images.githubusercontent.com/37377831/55039168-0f260600-501b-11e9-92b1-6bdae28d88c9.png' width='30'>| **Ruby** |Ruby on Rails | PostgreSQL | Jasmine | Heroku | Adobe Illustrator |
-|<img src='https://user-images.githubusercontent.com/37377831/55039424-f66a2000-501b-11e9-801a-837f8db5f0cb.png' width='30'>| **Python3** | Django | SQLAlchemy(ORM) | Jest | Linux |  |
+|<img src='https://user-images.githubusercontent.com/37377831/55039168-0f260600-501b-11e9-92b1-6bdae28d88c9.png' width='30'>| **Ruby** |Ruby on Rails | PostgreSQL | Jasmine | Heroku | Adobe <br/>Illustrator |
+|<img src='https://user-images.githubusercontent.com/37377831/55039424-f66a2000-501b-11e9-801a-837f8db5f0cb.png' width='30'>| **Python3** | Django | SQLAlchemy<br/>(ORM) | Jest | Linux |  |
 |<img src='https://user-images.githubusercontent.com/37377831/55039685-0fbf9c00-501d-11e9-8a9b-69d6d8dbc628.png' width='30'> |**CSS3**             | Vue  |       |  | AWS | |
 |<img src='https://user-images.githubusercontent.com/37377831/55040138-0fc09b80-501f-11e9-86f6-3a6794a9ce31.png' width='30'> |**HTML5** |Bootstrap| | | | |
 |<img src='https://user-images.githubusercontent.com/37377831/55040312-b9079180-501f-11e9-87c6-eb2d319fa049.png' width='30'> | **Sass** | Redux | | | | |
-
-
-## Skills
+---------
+<a name="skills"></a>
+<h1 align='center'>
+  Skills
+</h1>
 
 - **Communication: great at listening, speaking, writing and teaching**
 > I enjoy writing and [blogging](https://medium.com/@1550707241489) about technologies that I learn. This is really important because not only does it assures me that I truly understand the technology, but because it might also be useful to somebody somewhere searching on the internet for answers to that technology. I also enjoy reading books, primarily self-improvement, technology and life.
@@ -67,8 +75,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 -->
-
-## Education
+------------------
+<a name="education"></a>
+<h1 align='center'>
+  Education
+</h1>
 
 #### [Makers Academy](https://makers.tech) (March 2019 - June 2019)
 
@@ -106,11 +117,23 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### [Liceo Scientifico Giorgione](https://www.liceogiorgione.gov.it), Italy (2009 - 2012)
 
-## Experience
+-----------------
+<a name="experience"></a>
+<h1 align='center'>
+   Experience
+</h1>
 
-## Interests
 
-## Contacts
+<a name="interests"></a>
+<h1 align='center'>
+   Interests
+</h1>
+
+
+<a name="contacts"></a>
+<h1 align='center'>
+   Contacts
+</h1>
 
 **Company Name** (start_date to end_date)    
 *Your job title*  
