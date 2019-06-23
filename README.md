@@ -138,7 +138,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
  Hobbies
 </h4
   
--  App Building. ``I enjoy builing web applications in my spare time``.
+-  App Building.
 -  Cycling & Running.
 -  Teaching.
 -  Listening to Music.
