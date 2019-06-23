@@ -134,11 +134,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
    Interests
 </h1>
 
-Hobbies
-App Building - I enjoy builing web applications in my spare time.
-Cycling & Running.
-Teaching.
-Listening to Music.
+<h4>
+ Hobbies
+</h4
+  
+-  App Building. ``I enjoy builing web applications in my spare time``.
+-  Cycling & Running.
+-  Teaching.
+-  Listening to Music.
 
 <a name="contacts"></a>
 <h1 align='center'>
