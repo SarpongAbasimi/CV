@@ -134,13 +134,22 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
    Interests
 </h1>
 
+Hobbies
+App Building - I enjoy builing web applications in my spare time.
+Cycling & Running.
+Teaching.
+Listening to Music.
 
 <a name="contacts"></a>
 <h1 align='center'>
    Contacts
 </h1>
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+<p align='center'>
+  https://github.com/SarpongAbasimi | sarpong.o.t.abasimi@gmail.com | +447956889549 | London, UK 
+</p>
+<p align='center'>
+    <a href='https://uk.linkedin.com/in/sarpong-abasimi-353380163'><img src='https://user-images.githubusercontent.com/37377831/59976526-91dc4400-95bd-11e9-8b9e-8cafafc0c128.jpg' witdh=50 height=50/></a>
+ </p>
+         
+
