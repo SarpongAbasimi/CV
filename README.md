@@ -49,6 +49,10 @@ I am an energetic, curious, self-starter and ambitious  **engineer** who loves t
 > Italian - native </br>
 French  - Basics
 
+- **Enthusiast**
+
+> From starting a new project to learning to make pasta, I grab every challenge and opportunity with both hands.
+
 <!--
 - Experience
 - Achievements
@@ -72,16 +76,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 <img src='https://user-images.githubusercontent.com/37377831/55031000-86e93600-5005-11e9-9014-cb1e6b54b081.png' width='15%'>
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-- 12-week intensive software development bootcamp that focuses on OOD, TDD, XP values and software craftsmanship.
-- Demanded independent learning, keen problem-solving abilities and working in teams.
+ > Makers Academy is a 16 week immersive software engineering course in London. At Makers, I learnt how to craft code and follow the right process and best practices when building an application.
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+**Languages**: <img src='https://user-images.githubusercontent.com/37377831/55037461-c586ec80-5015-11e9-8759-f4b12c778245.png' width='30'><img src='https://user-images.githubusercontent.com/37377831/59976944-33b25f80-95c3-11e9-9571-88b74bc3d0fa.png' width='60'>
+
+Practices: TDD, Pair programming, Agile, Working collaboratively, XP
 
 #### [Loughborough University](https://www.lboro.ac.uk) / **(September 2013 - July 2017)**
 <img src='https://user-images.githubusercontent.com/37377831/55031967-c6b11d00-5007-11e9-876d-b0e9598bb8f0.png' width='20%'>
