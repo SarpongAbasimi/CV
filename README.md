@@ -31,6 +31,8 @@ I am an energetic, curious, self-starter and ambitious  **engineer** who loves t
 |**Instagram Clone** <br/> <a href='https://github.com/SarpongAbasimi/instagram-challenge'><img src='https://user-images.githubusercontent.com/37377831/56474819-35529080-6477-11e9-9e63-4cdf0055c340.png' width='60'></a>|Weekend Challenge <br/> **Week 8**<br/>Solo<br/>**2days** | A **Responsive** web application that allows users to **upload** their **favourite** pictures online.|<img src='https://user-images.githubusercontent.com/37377831/58439469-1b3a4c80-80cc-11e9-99e3-c824ba772035.png' width='60'><br/><img src='https://user-images.githubusercontent.com/37377831/56474933-eb6aaa00-6478-11e9-868c-723b87d33c6e.png' width='50'><br/><img src='https://user-images.githubusercontent.com/37377831/56475060-09d1a500-647b-11e9-9e30-3b091f7a6d23.png' width='30'><br/><img src='https://user-images.githubusercontent.com/37377831/58439531-78ce9900-80cc-11e9-9d12-1972bd05e031.png' width='50'>|
 |**Rhythm Is A Maker** <br/> <a href='https://rhythm-is-a-maker.herokuapp.com'><img src='https://user-images.githubusercontent.com/37377831/56474732-b6a92380-6475-11e9-9315-484609993fea.jpg' width='250'></a> <br/> <a href='https://github.com/SarpongAbasimi/rhythm-is-a-maker'><img src='https://user-images.githubusercontent.com/37377831/56474819-35529080-6477-11e9-9e63-4cdf0055c340.png' width='60'></a>|Final Project <br/> **Week 10** <br/>Team<br/>**1week** |Rhythm is a maker is a **web app** for easily creating your own music, using a sound sequencer and synth keyboard, while chatting with other muscians.|<img src='https://user-images.githubusercontent.com/37377831/55037461-c586ec80-5015-11e9-8759-f4b12c778245.png' width='30'><br/><img src='https://user-images.githubusercontent.com/37377831/57584362-4882da00-74d2-11e9-8d82-4439680f50b3.png' width='30'><br><img src='https://user-images.githubusercontent.com/37377831/55038471-d6852d00-5018-11e9-9456-4c513770b88c.png' width='30'><br><img src='https://user-images.githubusercontent.com/37377831/57587570-d1176f80-74fe-11e9-959d-8d1efda3a720.png' width='60'><br><img src='https://user-images.githubusercontent.com/37377831/59976039-124b7680-95b7-11e9-9562-9bb03d7256f2.png' width='60'><br><img src='https://user-images.githubusercontent.com/37377831/59976052-42931500-95b7-11e9-808c-f4083f94af82.png' width='60'><br><img src='https://user-images.githubusercontent.com/37377831/59976081-9bfb4400-95b7-11e9-811b-b386369b92af.png' width='60'>|
 
+----------
+
 <a name="skills"></a>
 <h1 align='center'>
   Skills
@@ -132,17 +134,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 -  Cycling & Running.
 -  Teaching.
 -  Listening to Music.
-
+----------
 <a name="contacts"></a>
 <h1 align='center'>
    Contacts
 </h1>
 
-<p align='center'>
-  https://github.com/SarpongAbasimi | sarpong.o.t.abasimi@gmail.com | +447956889549 | London, UK 
-</p>
-<p align='center'>
-    <a href='https://uk.linkedin.com/in/sarpong-abasimi-353380163'><img src='https://user-images.githubusercontent.com/37377831/59976526-91dc4400-95bd-11e9-8b9e-8cafafc0c128.jpg' witdh=50 height=50/></a>
- </p>
-         
+<h4 align='center>
+   https://github.com/SarpongAbasimi | sarpong.o.t.abasimi@gmail.com | +447956889549 | London, UK 
+</h4>
+           
+           
+          
 
