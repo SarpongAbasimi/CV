@@ -79,8 +79,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
  > Makers Academy is a 16 week immersive software engineering course in London. At Makers, I learnt how to craft code and follow the right process and best practices when building an application.
 
 **Languages**: <img src='https://user-images.githubusercontent.com/37377831/55037461-c586ec80-5015-11e9-8759-f4b12c778245.png' width='30'><img src='https://user-images.githubusercontent.com/37377831/59976944-33b25f80-95c3-11e9-9571-88b74bc3d0fa.png' width='60'>
+<img src='https://user-images.githubusercontent.com/37377831/59976977-9572c980-95c3-11e9-90d8-cd1204adeff5.png' width='80'>
 
-Practices: TDD, Pair programming, Agile, Working collaboratively, XP
+**Practices** 
+- Test Driven Development and Behaviour Driven Development.
+- Pair programming. 
+- Agile Methodologies.
+- Working collaboratively.
+- XP values.
+- Object-Oriented Programming/Design.
+
 
 #### [Loughborough University](https://www.lboro.ac.uk) / **(September 2013 - July 2017)**
 <img src='https://user-images.githubusercontent.com/37377831/55031967-c6b11d00-5007-11e9-876d-b0e9598bb8f0.png' width='20%'>
