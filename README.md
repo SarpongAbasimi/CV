@@ -110,6 +110,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
    Experience
 </h1>
 
+- NEC Group (Octorber 2018 - January 2019)
 
 <a name="interests"></a>
 <h1 align='center'>
