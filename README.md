@@ -140,9 +140,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
    Contacts
 </h1>
 
-<h4 align='center>
-   https://github.com/SarpongAbasimi | sarpong.o.t.abasimi@gmail.com | +447956889549 | London, UK 
+<h4 align='center'>
+   https://github.com/SarpongAbasimi | sarpong.o.t.abasimi@gmail.com | +447956889549 | London, UK <br/>
+     <a href='https://uk.linkedin.com/in/sarpong-abasimi-353380163'><img src='https://user-images.githubusercontent.com/37377831/59976526-91dc4400-95bd-11e9-8b9e-8cafafc0c128.jpg' witdh=50 height=50/></a>
 </h4>
+           
            
            
           
