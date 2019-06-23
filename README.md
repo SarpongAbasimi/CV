@@ -47,13 +47,13 @@ I am an energetic, curious, self-starter and ambitious  **engineer** who loves t
 - **Problem Solving**
 > I am a natural problem solver. I enjoy getting to the root cause of problems using Lean Six Sigma methodologies and finding the most effective appraoch to solve them, it gives me great satisfaction. During my spare time, when I am not reading , I like to solve [programming challenges](https://www.codewars.com/users/SarpongAbasimi).
 
-- **Languages**
-> Italian - native </br>
-French  - Basics
-
 - **Enthusiast**
 
 > From starting a new project to learning to make pasta, I grab every challenge and opportunity with both hands.
+
+- **Languages**
+> Italian - native </br>
+French  - Basics
 
 <!--
 - Experience
@@ -90,6 +90,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Working collaboratively.
 - XP values.
 - Object-Oriented Programming/Design.
+- CI & CD.
 
 
 #### [Loughborough University](https://www.lboro.ac.uk) / **(September 2013 - July 2017)**
