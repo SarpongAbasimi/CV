@@ -120,7 +120,25 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
    Experience
 </h1>
 
-- NEC Group (Octorber 2018 - January 2019)
+**NEC Group** (Octorber 2018 - January 2019).
+- Managing Kiosk and running different retail units during Live Events.
+- Assisting in counting stocks and operating till machine in my Kiosk.
+- Identifying and removing potential hazards that might affect clients.
+- Improving layouts of stocks displays to clients in retail centres.
+
+**LufbraSafe** (March 2017 - May 2017).
+> As part of an engineering project at Loughborouh University,I was also involved in developing a 12 months Project plan for LufbraSafe, to establish their new design Agency in Kuala Lumpar this involved
+
+- Conducting a risk assessment using the pest analysis to identify and remove hazards.
+- Managing the supply chains to ensure smooth flow of resources and continuous improvements.
+- Identifying methods of controlling quality systems and supply chain management.
+
+**Agro Company Limited** (Dec 2016 - January 2017)
+> Construction Company Intern for 2 months in Ghana
+- Worked closely with the senior engineers to improve the company’s lead-
+time for road construction by eliminating waste. (Lean application)
+- I Was involved in negotiating the purchase a £3.6 million quarry machine
+from QMS in Leicester.
 
 <a name="interests"></a>
 <h1 align='center'>
