@@ -13,7 +13,7 @@
   Sarpong Abasimi
 </h1>
 
-I am an energetic, curious, self-starter and ambitious  **engineer** who loves technology and wants to create products that will add value to peoples lives. I also enjoy learning new technologies, working with people, solving and getting to the root cause of problems. Currently, I am studying to became **Full-Stack software Developer** at Makers Academy and looking forward to work with **innovative and ambitious people, develop my skills and grow as an engineer, and work on projects that are useful and engaging**.
+I am an energetic, curious, self-starter and ambitious engineer who loves technology and wants to create products that will add value to peoples lives. I also enjoy learning new technologies, working with people, solving and getting to the root cause of problems. Currently, I am studying to became **Full-Stack software Developer** at Makers Academy and looking forward to work with **innovative and ambitious people, develop my skills and grow as an engineer, and work on projects that are useful and engaging**.
 
 ----------
 
