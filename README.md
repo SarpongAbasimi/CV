@@ -38,7 +38,7 @@ I am an energetic, curious, self-starter and ambitious  **engineer** who loves t
   Skills
 </h1>
 
-- **Communication: great at listening, speaking, writing and teaching**
+- **Communication: listening, speaking, writing and teaching**
 > I enjoy writing and [blogging](https://medium.com/@1550707241489) about technologies that I learn. This is really important because not only does it assures me that I truly understand the technology, but because it might also be useful to somebody somewhere searching on the internet for answers to that technology. I also enjoy reading books, primarily self-improvement, technology and life.
 
 - **Collaboration: flexible, confident and natural team-player**
@@ -120,7 +120,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
    Experience
 </h1>
 
-**NEC Group** (Octorber 2018 - January 2019).
+**NEC Group** (October 2018 - January 2019).
 - Managing Kiosk and running different retail units during Live Events.
 - Assisting in counting stocks and operating till machine in my Kiosk.
 - Identifying and removing potential hazards that might affect clients.
