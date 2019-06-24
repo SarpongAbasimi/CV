@@ -13,7 +13,7 @@
   Sarpong Abasimi
 </h1>
 
-I am an energetic, curious, self-starter and ambitious  **engineer** who loves technology and wants to create products that will add value to peoples lives. I also enjoy learning new technologies, working with people, solving and getting to the root casue of problems. Currently I am studying to became **Full-Stack software Developer** at Makers Academy and looking forward to work with **innovative and ambitious people, develop my skills and grow as an engineer, and work on projects that are useful and engaging**.
+I am an energetic, curious, self-starter and ambitious  **engineer** who loves technology and wants to create products that will add value to peoples lives. I also enjoy learning new technologies, working with people, solving and getting to the root cause of problems. Currently, I am studying to became **Full-Stack software Developer** at Makers Academy and looking forward to work with **innovative and ambitious people, develop my skills and grow as an engineer, and work on projects that are useful and engaging**.
 
 ----------
 
@@ -45,7 +45,7 @@ I am an energetic, curious, self-starter and ambitious  **engineer** who loves t
 > Michael Jordans once said, "**Talent wins games, but teamwork and intelligence win championships**" and he is perfectly right. Having played competitive football for three years, I know the importance of collaborating and working effectively together with others to achieve a common goal. Over the years I  have demonstrated this skill by working with engineers from diverse background to develop a guide for Small Medium Enterprises to implement industry 4.0 across their supply chain.
 
 - **Problem Solving**
-> I am a natural problem solver. I enjoy getting to the root cause of problems using Lean Six Sigma methodologies and finding the most effective appraoch to solve them, it gives me great satisfaction. During my spare time, when I am not reading , I like to solve [programming challenges](https://www.codewars.com/users/SarpongAbasimi).
+> I am a natural problem solver. I enjoy getting to the root cause of problems using Lean Six Sigma methodologies and finding the most effective approach to solve them, it gives me great satisfaction. During my spare time, when I am not reading, I like to solve[programming challenges](https://www.codewars.com/users/SarpongAbasimi).
 
 - **Enthusiast**
 
@@ -78,7 +78,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 <img src='https://user-images.githubusercontent.com/37377831/55031000-86e93600-5005-11e9-9014-cb1e6b54b081.png' width='15%'>
 
- > Makers Academy is a 16 week immersive software engineering course in London. At Makers, I learnt how to craft code and follow the right process and best practices when building an application.
+ > Makers Academy is a 16-week immersive software engineering course in London. At Makers, I learnt how to craft code and follow the right process and best practices when building an application.
 
 **Languages**: <img src='https://user-images.githubusercontent.com/37377831/55037461-c586ec80-5015-11e9-8759-f4b12c778245.png' width='30'><img src='https://user-images.githubusercontent.com/37377831/59976944-33b25f80-95c3-11e9-9571-88b74bc3d0fa.png' width='60'>
 <img src='https://user-images.githubusercontent.com/37377831/59976977-9572c980-95c3-11e9-90d8-cd1204adeff5.png' width='80'>
@@ -124,10 +124,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Managing Kiosk and running different retail units during Live Events.
 - Assisting in counting stocks and operating till machine in my Kiosk.
 - Identifying and removing potential hazards that might affect clients.
-- Improving layouts of stocks displays to clients in retail centres.
+- Improving layouts of stocks display to clients in retail centres.
 
 **LufbraSafe** (March 2017 - May 2017).
-> As part of an engineering project at Loughborouh University,I was also involved in developing a 12 months Project plan for LufbraSafe, to establish their new design Agency in Kuala Lumpar this involved
+> As part of an engineering project at Loughborough University, I was also involved in developing a 12 months Project plan for LufbraSafe, to establish their new design Agency in Kuala Lumpur this involved
 
 - Conducting a risk assessment using the pest analysis to identify and remove hazards.
 - Managing the supply chains to ensure smooth flow of resources and continuous improvements.
