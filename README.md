@@ -144,7 +144,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Identifying methods of controlling quality systems and supply chain management.
 
 **Agro Company Limited** (Dec 2016 - January 2017)
-> Construction Company Intern for 2 months in Ghana
 - Worked closely with the senior engineers to improve the company’s lead-
 time for road construction by eliminating waste. (Lean application)
 - Contributed to the negotiation of high-end QMS quarry machines from £5.5 million to  £3.6 million.
