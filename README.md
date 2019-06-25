@@ -130,6 +130,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 <h1 align='center'>
    Experience.
 </h1>
+
 **E-Commerce Business** (January 2018 - current)
 - Developed and enhanced my digital awareness skills through research for content, marketing avenues and new business opportunities.
 - Generated new customer base through direct, social and network marketing.
