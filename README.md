@@ -30,7 +30,7 @@ In my final year at Loughborough University, I got introduced to software engine
 
 <a name="projects"></a>
 <h1 align='center'>
-  Projects
+  Projects.
 </h1>
 
 
@@ -46,7 +46,7 @@ In my final year at Loughborough University, I got introduced to software engine
 
 <a name="skills"></a>
 <h1 align='center'>
-  Skills
+  Skills.
 </h1>
 
 - **Communication: listening, speaking, writing and teaching**
@@ -82,7 +82,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ------------------
 <a name="education"></a>
 <h1 align='center'>
-  Education
+  Education.
 </h1>
 
 #### [Makers Academy](https://makers.tech) (March 2019 - June 2019)
@@ -149,11 +149,11 @@ time for road construction by eliminating waste.
 
 <a name="interests"></a>
 <h1 align='center'>
-   Interests
+   Interests.
 </h1>
 
 <h4>
- Hobbies
+ Hobbies.
 </h4
   
 -  App Building.
