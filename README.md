@@ -163,7 +163,7 @@ time for road construction by eliminating waste.
 ----------
 <a name="contacts"></a>
 <h1 align='center'>
-   Contacts
+   Contacts.
 </h1>
 
 <h4 align='center'>
