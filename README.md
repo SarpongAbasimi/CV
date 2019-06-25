@@ -118,16 +118,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 <img src='https://user-images.githubusercontent.com/37377831/55033535-4f7d8800-500b-11e9-94ed-5f177aa34f35.png' width='20%'>
 
-- CS50 Introduction to Computer Science | Online Course
-- Python3
-- Data Structure And Algorithms
+- CS50 Introduction to Computer Science | Online Course.
+- Python3.
+- Data Structure And Algorithms.
 
 #### [Liceo Scientifico Giorgione](https://www.liceogiorgione.gov.it), Italy (2009 - 2012)
 
 -----------------
 <a name="experience"></a>
 <h1 align='center'>
-   Experience
+   Experience.
 </h1>
 
 **NEC Group** (October 2018 - January 2019).
