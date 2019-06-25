@@ -13,6 +13,17 @@
   Sarpong Abasimi
 </h1>
 
+- Recently completed full stack development course with Makers Academy.
+- BEng (Hons) Manufacturing Engineering from Loughborough University.
+
+|     Tech Stack              |
+| :----------------:          |
+|<img src='https://user-images.githubusercontent.com/37377831/55037461-c586ec80-5015-11e9-8759-f4b12c778245.png' width='30'><img src='https://user-images.githubusercontent.com/37377831/57584362-4882da00-74d2-11e9-8d82-4439680f50b3.png' width='30'><img src='https://user-images.githubusercontent.com/37377831/57985523-0cff8700-7a61-11e9-8658-f3c746f1c1b7.png' width='50'><img src='https://user-images.githubusercontent.com/37377831/60084148-e6eb9780-972e-11e9-8600-99126277948e.png' width='40'> <img src='https://user-images.githubusercontent.com/37377831/55038471-d6852d00-5018-11e9-9456-4c513770b88c.png' width='30'><img src='https://user-images.githubusercontent.com/37377831/57587570-d1176f80-74fe-11e9-959d-8d1efda3a720.png' width='80'><img src='https://user-images.githubusercontent.com/37377831/59976944-33b25f80-95c3-11e9-9571-88b74bc3d0fa.png' width='60'><img src='https://user-images.githubusercontent.com/37377831/58439469-1b3a4c80-80cc-11e9-99e3-c824ba772035.png' width='60'><img src='https://user-images.githubusercontent.com/37377831/56475060-09d1a500-647b-11e9-9e30-3b091f7a6d23.png' width='30'><img src='https://user-images.githubusercontent.com/37377831/59976977-9572c980-95c3-11e9-90d8-cd1204adeff5.png' width='80'><img src='https://user-images.githubusercontent.com/37377831/60083343-78f2a080-972d-11e9-84e5-34f51e855d81.png' width='50'><img src='https://user-images.githubusercontent.com/37377831/56474819-35529080-6477-11e9-9e63-4cdf0055c340.png' width='40'><img src='https://user-images.githubusercontent.com/37377831/60083091-f4a01d80-972c-11e9-8eb3-e73fae35bb28.jpg' width='60'><img src='https://user-images.githubusercontent.com/37377831/56474933-eb6aaa00-6478-11e9-868c-723b87d33c6e.png' width='50'><img src='https://user-images.githubusercontent.com/37377831/60083948-88261e00-972e-11e9-9888-686f308dade7.png' width='40'> <img src='https://user-images.githubusercontent.com/37377831/55040138-0fc09b80-501f-11e9-86f6-3a6794a9ce31.png' width='30'> <img src='https://user-images.githubusercontent.com/37377831/55040312-b9079180-501f-11e9-87c6-eb2d319fa049.png' width='30'><img src='https://user-images.githubusercontent.com/37377831/59976039-124b7680-95b7-11e9-9562-9bb03d7256f2.png' width='60'>|
+
+
+
+
+
 I am an energetic, curious, self-starter and ambitious engineer who loves technology and wants to create products that will add value to peoples lives. I also enjoy learning new technologies, working with people, solving and getting to the root cause of problems. Currently, I am studying to became **Full-Stack software Developer** at Makers Academy and looking forward to work with **innovative and ambitious people, develop my skills and grow as an engineer, and work on projects that are useful and engaging**.
 
 ----------
