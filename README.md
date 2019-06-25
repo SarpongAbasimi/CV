@@ -15,6 +15,7 @@
 
 - Recently completed full stack development course with Makers Academy.
 - BEng (Hons) Manufacturing Engineering from Loughborough University.
+- Award winning Athlete and footballer.(Silver and Bronze medal)
 
 
 |     **Tech Stack**              |
@@ -22,7 +23,6 @@
 |<img src='https://user-images.githubusercontent.com/37377831/55037461-c586ec80-5015-11e9-8759-f4b12c778245.png' width='30'><img src='https://user-images.githubusercontent.com/37377831/57584362-4882da00-74d2-11e9-8d82-4439680f50b3.png' width='30'><img src='https://user-images.githubusercontent.com/37377831/57985523-0cff8700-7a61-11e9-8658-f3c746f1c1b7.png' width='50'><img src='https://user-images.githubusercontent.com/37377831/60084148-e6eb9780-972e-11e9-8600-99126277948e.png' width='40'> <img src='https://user-images.githubusercontent.com/37377831/55038471-d6852d00-5018-11e9-9456-4c513770b88c.png' width='30'><img src='https://user-images.githubusercontent.com/37377831/57587570-d1176f80-74fe-11e9-959d-8d1efda3a720.png' width='80'><img src='https://user-images.githubusercontent.com/37377831/59976944-33b25f80-95c3-11e9-9571-88b74bc3d0fa.png' width='60'><img src='https://user-images.githubusercontent.com/37377831/58439469-1b3a4c80-80cc-11e9-99e3-c824ba772035.png' width='60'><img src='https://user-images.githubusercontent.com/37377831/56475060-09d1a500-647b-11e9-9e30-3b091f7a6d23.png' width='30'><img src='https://user-images.githubusercontent.com/37377831/59976977-9572c980-95c3-11e9-90d8-cd1204adeff5.png' width='80'><img src='https://user-images.githubusercontent.com/37377831/60083343-78f2a080-972d-11e9-84e5-34f51e855d81.png' width='50'><img src='https://user-images.githubusercontent.com/37377831/56474819-35529080-6477-11e9-9e63-4cdf0055c340.png' width='40'><img src='https://user-images.githubusercontent.com/37377831/60083091-f4a01d80-972c-11e9-8eb3-e73fae35bb28.jpg' width='60'><img src='https://user-images.githubusercontent.com/37377831/56474933-eb6aaa00-6478-11e9-868c-723b87d33c6e.png' width='50'><img src='https://user-images.githubusercontent.com/37377831/60083948-88261e00-972e-11e9-9888-686f308dade7.png' width='40'> <img src='https://user-images.githubusercontent.com/37377831/55040138-0fc09b80-501f-11e9-86f6-3a6794a9ce31.png' width='30'> <img src='https://user-images.githubusercontent.com/37377831/55040312-b9079180-501f-11e9-87c6-eb2d319fa049.png' width='30'><img src='https://user-images.githubusercontent.com/37377831/59976039-124b7680-95b7-11e9-9562-9bb03d7256f2.png' width='60'>|
 
 In my final year at Loughborough University, I got introduced to software engineering for the first time and I have been stuck in it ever since because it challenges my problem-solving skills and feeds my curiosity and willingness to learn. I enjoy getting to the root cause of problems, getting the best out of my team and helping my team to succeed and reach their goal. Currently, I am learning and looking forward to working with innovative and ambitious people, develop my skills and grow as an engineer and lastly, work on projects that hat solve real-world problems and that challenge me to learn.
-
 
 
 ----------
@@ -49,13 +49,13 @@ In my final year at Loughborough University, I got introduced to software engine
 </h1>
 
 - **Communication: listening, speaking, writing and teaching**
-> I enjoy writing and [blogging](https://medium.com/@1550707241489) about technologies that I learn. This is really important because not only does it assures me that I truly understand the technology, but because it might also be useful to somebody somewhere searching on the internet for answers to that technology. I also enjoy reading books, primarily self-improvement, technology and life.
+> I enjoy writing and [blogging](https://medium.com/@1550707241489) about technologies that I learn. This is really important because not only does it assures me that I truly understand the technology, but because it might also be useful to somebody somewhere searching on the internet for answers to that technology. I also enjoy reading books, primarily self-improvement and technology.
 
 - **Collaboration: flexible, confident and natural team-player**
-> Michael Jordans once said, "**Talent wins games, but teamwork and intelligence win championships**" and he is perfectly right. Having played competitive football for three years, I know the importance of collaborating and working effectively together with others to achieve a common goal. Over the years I  have demonstrated this skill by working with engineers from diverse background to develop a guide for Small Medium Enterprises to implement industry 4.0 across their supply chain.
+> Michael Jordans once said, "**Talent wins games, but teamwork and intelligence win championships**" and he is perfectly right. Having played competitive football for three years, I know the importance of collaborating and working effectively together with others to achieve a common goal. Over the years, I  have demonstrated this skill by working with engineers from diverse background to develop a guide for Small Medium Enterprises to implement **industry 4.0** across their supply chain.
 
 - **Problem Solving**
-> I am a natural problem solver. I enjoy getting to the root cause of problems using Lean Six Sigma methodologies and finding the most effective approach to solve them, it gives me great satisfaction. During my spare time, when I am not reading, I like to solve[programming challenges](https://www.codewars.com/users/SarpongAbasimi).
+> I am a natural problem solver. I enjoy getting to the root cause of problems using Lean Six Sigma methodologies and finding the most effective approach to solve them, it gives me great satisfaction. During my spare time, when I am not reading, I like to solve [programming challenges](https://www.codewars.com/users/SarpongAbasimi).
 
 - **Enthusiast**
 
