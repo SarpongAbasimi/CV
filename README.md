@@ -138,18 +138,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Improving layouts of stocks display to clients in retail centres.
 
 **LufbraSafe** (March 2017 - May 2017).
-> As part of an engineering project at Loughborough University, I was also involved in developing a 12 months Project plan for LufbraSafe, to establish their new design Agency in Kuala Lumpur this involved
-
-- Conducting a risk assessment using the pest analysis to identify and remove hazards.
-- Managing the supply chains to ensure smooth flow of resources and continuous improvements.
+-  Created a 12 months project plan by using agile and scheduling methodologies to successfully establish a branch of LufbraSafe in Kuala Lumpur.
+- Conducted risk assessment using pest analysis to identify and remove hazards could effect the established of the agency in Malaysia.
+- Honed my mnanagement skills by managing the supply chains to ensure smooth flow of resources and continuous improvements.
 - Identifying methods of controlling quality systems and supply chain management.
 
 **Agro Company Limited** (Dec 2016 - January 2017)
 > Construction Company Intern for 2 months in Ghana
 - Worked closely with the senior engineers to improve the company’s lead-
 time for road construction by eliminating waste. (Lean application)
-- I Was involved in negotiating the purchase a £3.6 million quarry machine
-from QMS in Leicester.
+- Contributed to the negotiation of high-end QMS quarry machines from £5.5 million to  £3.6 million.
 
 <a name="interests"></a>
 <h1 align='center'>
