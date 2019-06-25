@@ -130,22 +130,20 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 <h1 align='center'>
    Experience.
 </h1>
-
-**NEC Group** (October 2018 - January 2019).
-- Managing Kiosk and running different retail units during Live Events.
-- Assisting in counting stocks and operating till machine in my Kiosk.
-- Identifying and removing potential hazards that might affect clients.
-- Improving layouts of stocks display to clients in retail centres.
+**E-Commerce Business** (January 2018 - current)
+- Developed and enhanced my digital awareness skills through research for content, marketing avenues and new business opportunities.
+- Generated new customer base through direct, social and network marketing.
+- Enhanced my project management skills by effectively planning how to utilize my resources and meet sales target.
+- I honed my communication and marketing skills through customer interaction and providing good customer service.
 
 **LufbraSafe** (March 2017 - May 2017).
--  Created a 12 months project plan by using agile and scheduling methodologies to successfully establish a branch of LufbraSafe in Kuala Lumpur.
-- Conducted risk assessment using pest analysis to identify and remove hazards could effect the established of the agency in Malaysia.
-- Honed my mnanagement skills by managing the supply chains to ensure smooth flow of resources and continuous improvements.
-- Identifying methods of controlling quality systems and supply chain management.
+- Created a 12 months project plan by using agile and scheduling methodologies to successfully establish a branch of LufbraSafe in Kuala Lumpur.
+- Conducted risk assessment using pest analysis to identify and remove hazards could affect the established of the agency in Malaysia.
+- Honed my management skills by supervising suppliers along the companies supply chain to ensure smooth flow of resources and Kaizen 
 
 **Agro Company Limited** (Dec 2016 - January 2017)
-- Worked closely with the senior engineers to improve the company’s lead-
-time for road construction by eliminating waste. (Lean application)
+- Enhanced my team working skills by closely working with the senior engineers to improve the company’s lead-
+time for road construction by eliminating waste.
 - Contributed to the negotiation of high-end QMS quarry machines from £5.5 million to  £3.6 million.
 
 <a name="interests"></a>
