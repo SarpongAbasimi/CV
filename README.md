@@ -89,7 +89,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 <img src='https://user-images.githubusercontent.com/37377831/55031000-86e93600-5005-11e9-9014-cb1e6b54b081.png' width='15%'>
 
- > Makers Academy is a 16-week immersive software engineering course in London. At Makers, I learnt how to craft code and follow the right process and best practices when building an application.
+Makers Academy is a 16-week immersive software engineering course in London. At Makers, I learnt how to craft code and follow the right process and best practices when building an application.
 
 **Languages**: <img src='https://user-images.githubusercontent.com/37377831/55037461-c586ec80-5015-11e9-8759-f4b12c778245.png' width='30'><img src='https://user-images.githubusercontent.com/37377831/59976944-33b25f80-95c3-11e9-9571-88b74bc3d0fa.png' width='60'>
 <img src='https://user-images.githubusercontent.com/37377831/59976977-9572c980-95c3-11e9-90d8-cd1204adeff5.png' width='80'>
