@@ -79,7 +79,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 -->
-------------------
+
 <a name="education"></a>
 <h1 align='center'>
   Education.
@@ -125,7 +125,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### [Liceo Scientifico Giorgione](https://www.liceogiorgione.gov.it), Italy (2009 - 2012)
 
------------------
+
 <a name="experience"></a>
 <h1 align='center'>
    Experience.
@@ -160,7 +160,7 @@ time for road construction by eliminating waste.
 -  Cycling & Running.
 -  Teaching.
 -  Listening to Music.
-----------
+
 <a name="contacts"></a>
 <h1 align='center'>
    Contacts.
