@@ -26,7 +26,7 @@
 In my final year at Loughborough University, I got introduced to software engineering for the first time and I have been stuck in it ever since because it challenges my problem-solving skills and feeds my curiosity and willingness to learn. I enjoy getting to the root cause of problems, getting the best out of my team and helping my team to succeed and reach their goal. Currently, I am learning and looking forward to working with innovative and ambitious people, develop my skills and grow as an engineer and lastly, work on projects that hat solve real-world problems and that challenge me to learn.
 
 
-----------
+
 
 <a name="projects"></a>
 <h1 align='center'>
@@ -42,7 +42,7 @@ In my final year at Loughborough University, I got introduced to software engine
 |**ThermostatApp** <br/> <a href='https://peaceful-springs-37224.herokuapp.com/'><img src='https://user-images.githubusercontent.com/37377831/56474732-b6a92380-6475-11e9-9315-484609993fea.jpg' width='250'></a><br/> <a href='https://github.com/SarpongAbasimi/ThermostatJs'><img src='https://user-images.githubusercontent.com/37377831/56474819-35529080-6477-11e9-9e63-4cdf0055c340.png' width='60'></a> | Week Challenge <br/> **Week 5** <br/>**6days** | A **responsive** and dynamic app that allows users to know the current temperature of any city in the world. The application uses open weather API to make this possible.|<img src='https://user-images.githubusercontent.com/37377831/55037461-c586ec80-5015-11e9-8759-f4b12c778245.png' width='30'><br/><img src='https://user-images.githubusercontent.com/37377831/57584362-4882da00-74d2-11e9-8d82-4439680f50b3.png' width='30'><br><img src='https://user-images.githubusercontent.com/37377831/55038471-d6852d00-5018-11e9-9456-4c513770b88c.png' width='30'><br><img src='https://user-images.githubusercontent.com/37377831/57587570-d1176f80-74fe-11e9-959d-8d1efda3a720.png' width='60'><img src='https://user-images.githubusercontent.com/37377831/55040138-0fc09b80-501f-11e9-86f6-3a6794a9ce31.png' width='30'> <br/><img src='https://user-images.githubusercontent.com/37377831/56474933-eb6aaa00-6478-11e9-868c-723b87d33c6e.png' width='50'> <br/> |
 |**Instagram Clone** <br/> <a href='https://github.com/SarpongAbasimi/instagram-challenge'><img src='https://user-images.githubusercontent.com/37377831/56474819-35529080-6477-11e9-9e63-4cdf0055c340.png' width='60'></a>|Weekend Challenge <br/> **Week 8**<br/>Solo<br/>**2days** | A **Responsive** web application that allows users to **upload** their **favourite** pictures online.|<img src='https://user-images.githubusercontent.com/37377831/58439469-1b3a4c80-80cc-11e9-99e3-c824ba772035.png' width='60'><br/><img src='https://user-images.githubusercontent.com/37377831/56474933-eb6aaa00-6478-11e9-868c-723b87d33c6e.png' width='50'><br/><img src='https://user-images.githubusercontent.com/37377831/56475060-09d1a500-647b-11e9-9e30-3b091f7a6d23.png' width='30'><br/><img src='https://user-images.githubusercontent.com/37377831/58439531-78ce9900-80cc-11e9-9d12-1972bd05e031.png' width='50'>|
 
-----------
+
 
 <a name="skills"></a>
 <h1 align='center'>
