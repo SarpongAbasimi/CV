@@ -15,7 +15,6 @@
 
 - Recently completed full stack development course with Makers Academy.
 - BEng (Hons) Manufacturing Engineering from Loughborough University.
-- Award winning Athlete and footballer.(Silver and Bronze medal)
 
 
 |     **Tech Stack**              |
@@ -102,6 +101,12 @@ Makers Academy is a 16-week immersive software engineering course in London. At 
 - XP values.
 - Object-Oriented Programming/Design.
 - CI & CD.
+
+- Architected RESTful API with intuitive endpoints on Node/Express server to respond to client-side requests from a React application through customized middleware controllers.
+
+- Developed and maintained a social media application powered by Flask(python) backend.
+
+- Worked with a team of engineers and followed Agile and SCRUM best practices throughout the entire development lifecycle of a Full-stack applications built in Node/Express.js.
 
 
 #### [Loughborough University](https://www.lboro.ac.uk) / **(September 2013 - July 2017)**
