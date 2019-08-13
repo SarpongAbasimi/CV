@@ -102,6 +102,8 @@ Makers Academy is a 16-week immersive software engineering course in London. At 
 - Object-Oriented Programming/Design.
 - CI & CD.
 
+**Contributions** 
+
 - Architected RESTful API with intuitive endpoints on Node/Express server to respond to client-side requests from a React application through customized middleware controllers.
 
 - Developed and maintained a social media application powered by Flask(python) backend.
